@@ -1,0 +1,39 @@
+{
+  "products" : {
+    "-MMZKLV2gpTeBCbGGahH" : {
+      "description" : "Lenovo Chromebook Flex 5 13 Laptop, FHD (1920 x 1080) Touch Display, Intel Core i3-10110U Processor, 4GB DDR4 Onboard RAM, 64GB SSD, Intel Integrated Graphics, Chrome OS, 82B80006UX, Graphite Grey",
+      "id" : "-MMZKLV2gpTeBCbGGahH",
+      "name" : "Lenovo Chromebook Flex Laptop",
+      "owner" : "Kwame Paul",
+      "price" : 5799.99,
+      "thumbnail" : "https://images-na.ssl-images-amazon.com/images/I/81KezKjCh7L._AC_SL1500_.jpg",
+      "website" : "https://www.amazon.com/Lenovo-Chromebook-i3-10110U-Integrated-82B80006UX/dp/B086383HC7/ref=lp_16225007011_1_14?s=computers-intl-ship&ie=UTF8&qid=1605853485&sr=1-14"
+    }
+  },
+  "users" : {
+    "3fvv07dlVfSZYiYoK3RS0heLKkg2" : {
+      "email" : "anisp@gmail.com",
+      "fullName" : "Anis Patel",
+      "password" : "anis12345",
+      "userID" : "3fvv07dlVfSZYiYoK3RS0heLKkg2"
+    },
+    "dCVJVCyKUJPIazfBd6Wx3UwfDY03" : {
+      "email" : "masinkala@hotmail.com",
+      "fullName" : "Masiza Nkala",
+      "password" : "masiza12345",
+      "userID" : "dCVJVCyKUJPIazfBd6Wx3UwfDY03"
+    },
+    "xeHsoJQ2nHZHxVXoGc23ri7XnaI3" : {
+      "email" : "asafoadjeik@yahoo.com",
+      "fullName" : "Kwame Paul",
+      "password" : "asafo12345",
+      "userID" : "xeHsoJQ2nHZHxVXoGc23ri7XnaI3"
+    },
+    "xq4aORto1mW4aOEBE76BSpEG2Ml1" : {
+      "email" : "shawm@gmail.com",
+      "fullName" : "Shawn Michaels",
+      "password" : "shawn123",
+      "userID" : "xq4aORto1mW4aOEBE76BSpEG2Ml1"
+    }
+  }
+}
